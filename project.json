@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.11",
+  "name": "TicTacToe",
+  "id": "80002632-e4e1-45ff-b835-e90be5886c14",
+  "isNew": false
+}
